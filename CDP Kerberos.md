@@ -9,6 +9,8 @@
 ## 二、[[#CDP啟用Kerberos]]
 ## 三、[[#注意事項]]
 
+[前置作業](#前置作業)
+[安裝JCE POLICY](#安裝JCE POLICY)
 
 ## 前置作業
 #### 安裝與設定Kerberos Server
