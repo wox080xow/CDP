@@ -12,6 +12,9 @@
 [前置作業](#前置作業)
 
 [安裝JCE POLICY](#安裝JCE\ POLICY)
+[啟動Kerberos](#啟動Kerberos)
+
+[注意事項](#注意事項)
 
 ## 前置作業
 #### 安裝與設定Kerberos Server
