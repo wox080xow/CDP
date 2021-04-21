@@ -1,4 +1,5 @@
-#/bin/bash
+#!/bin/bash
+
 
 while read h
 do
